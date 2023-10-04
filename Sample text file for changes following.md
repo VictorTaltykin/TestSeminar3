@@ -3,7 +3,8 @@ Final Conflict
 we add both changes
 ![Log --graph  из Ветки01](LogG.png)
 Вторая строк для простого слияния
-
+Новый текст для простого слияния в master
+![Final conflict picture](Pic03.png)
 
 ## Branch 01
 Текст в Ветке01, который сохранится

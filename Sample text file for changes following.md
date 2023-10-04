@@ -1,7 +1,7 @@
 # Sample text file for changes following
 Final Conflict
 we add both changes
-
+![Log --graph  из Ветки01](LogG.png)
 
 ## Branch 01
 Текст в Ветке01, который сохранится

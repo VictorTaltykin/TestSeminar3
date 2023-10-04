@@ -2,6 +2,8 @@
 Final Conflict
 we add both changes
 ![Log --graph  из Ветки01](LogG.png)
+Вторая строк для простого слияния
+
 
 ## Branch 01
 Текст в Ветке01, который сохранится
